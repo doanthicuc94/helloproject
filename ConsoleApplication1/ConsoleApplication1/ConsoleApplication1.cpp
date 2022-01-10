@@ -7,6 +7,6 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << a + c << endl;
+    cout << "Tong la: " << a + b << endl;
 }
 
